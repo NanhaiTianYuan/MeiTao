@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.hotle.dao.HotleMapper">
+
+	<select id="getLogin" resultType="Hotlemanger">
+		select * from hotlemanger
+		<trim prefix="where" prefixOverrides="and | or">
+			<if test="mname != null">
+				and mname = #{mname}
+			</if>
+			<if test="passwords != null">
+				and passwords =#{passwords}
+			</if>
+		</trim>
+	</select>
+
+
+</mapper>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.hotle.dao.HotleRuzhuXxMapper">
+    <insert id="add" parameterType="HotleVip">
+       INSERT INTO hotleruzhuxx (roomid,roomtype,rName,sex,idNumber,phoneNumber,rRice,rtime)
+				values(#{roomid},#{roomtype},#{rName},#{sex},#{idNumber},
+					   #{phoneNumber},#{rRice},#{rtime})
+    </insert>
+
+    <insert id="addXiaoFei" parameterType="HotelXiaofei">
+        INSERT INTO xiaofeilog (roomid,rName,rtime,ttime,days,price,ruzhuPrice,otherePrice,countPrice)
+         VALUES(#{roomid},#{rName},#{rtime},#{ttime},#{days},#{price},#{ruzhuPrice},#{otherePrice},#{countPrice})
+    </insert>
+
+    <update id="modify"></update>
+
+    <delete id="deleteHotleRuzhuXxById"></delete>
+
+    <select id="getHotleRuzhuXxList" resultType="HotleRuzhuXx">
+        SELECT *FROM  hotleruzhuxx
+        <trim prefix="where" prefixOverrides="and | or">
+            <if test="choose != null and choose != ''">
+                <if test="choose==1">
+                    and roomid like CONCAT ('%',#{likes},'%')
+                </if>
+                <if test="choose==2">
+                    and rName like CONCAT ('%',#{likes},'%')
+                </if>
+                <if test="choose==3">
+                    and idNumber like CONCAT ('%',#{likes},'%')
+                </if>
+                <if test="choose==4">
+                    and phoneNumber like CONCAT ('%',#{likes},'%')
+                </if>
+            </if>
+
+        </trim>
+        order by rtime DESC limit #{from},#{pageSize}
+    </select>
+
+    <select id="getHotleRuzhuXxCount" resultType="java.lang.Integer">
+        select count(*) as count from  hotleruzhuxx
+        <trim prefix="where" prefixOverrides="and | or">
+            <if test="choose != null and choose != ''">
+                <if test="choose==1">
+                    and roomid like CONCAT ('%',#{likes},'%')
+                </if>
+                <if test="choose==2">
+                    and rName like CONCAT ('%',#{likes},'%')
+                </if>
+                <if test="choose==3">
+                    and idNumber like CONCAT ('%',#{likes},'%')
+                </if>
+                <if test="choose==4">
+                    and phoneNumber like CONCAT ('%',#{likes},'%')
+                </if>
+            </if>
+        </trim>
+
+    </select>
+
+    <select id="getHotleXiaoFeiList" resultType="cn.hotle.pojo.HotelXiaofei">
+        SELECT *FROM  xiaofeilog
+        <trim prefix="where" prefixOverrides="and | or">
+        <if test="choose != null and choose != ''">
+            <if test="choose==1">
+                and roomid like CONCAT ('%',#{likes},'%')
+            </if>
+            <if test="choose==2">
+                and rName like CONCAT ('%',#{likes},'%')
+            </if>
+            <if test="choose==3">
+                and days like CONCAT ('%',#{likes},'%')
+            </if>
+            <if test="choose==4">
+                and rtime like CONCAT ('%',#{likes},'%')
+            </if>
+        </if>
+        </trim>
+        order by ttime DESC limit #{from},#{pageSize}
+    </select>
+
+    <select id="getHotlXiaoFeiCount" resultType="java.lang.Integer">
+         select count(*) as count from  xiaofeilog
+        <trim prefix="where" prefixOverrides="and | or">
+            <if test="choose != null and choose != ''">
+                <if test="choose==1">
+                    and roomid like CONCAT ('%',#{likes},'%')
+                </if>
+                <if test="choose==2">
+                    and rName like CONCAT ('%',#{likes},'%')
+                </if>
+                <if test="choose==3">
+                    and days like CONCAT ('%',#{likes},'%')
+                </if>
+                <if test="choose==4">
+                    and rtime like CONCAT ('%',#{likes},'%')
+                </if>
+            </if>
+        </trim>
+    </select>
+    <select id="getRuzhuByid" resultType="cn.hotle.pojo.HotleRuzhuXx">
+        SELECT * FROM hotleruzhuxx
+        <trim prefix="where" prefixOverrides="and | or">
+            <if test="rid != null">
+                and rid = #{rid}
+            </if>
+        </trim>
+    </select>
+
+</mapper>
