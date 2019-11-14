@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="EdocManagemen:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9977d67f-8659-403b-8cbe-47562a3c3e72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Airquality/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EdocManagemen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/Mybatisfirst.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/src/main/java/org/jbit/jopo/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/src/main/java/org/jbit/jopo/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/src/main/java/org/jbit/jopo/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/src/main/java/org/jbit/jopo/Singleton02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/src/main/java/org/jbit/jopo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/src/main/java/org/jbit/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/src/main/java/org/jbit/text/UsetMapperText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/src/main/resources/mapper/UserListMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/src/main/resources/mapper/addUser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/src/test/java/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/src/test/java/SpringSingleon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/target/classes/META-INF/Mybatisfirst.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/target/classes/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/target/classes/mapper/UserListMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/target/classes/mapper/addUser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/target/classes/org/jbit/jopo/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/target/classes/org/jbit/jopo/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/target/classes/org/jbit/jopo/Singleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/target/classes/org/jbit/jopo/Singleton02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/target/classes/org/jbit/jopo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/target/classes/org/jbit/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/target/classes/org/jbit/text/UsetMapperText.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/target/test-classes/META-INF/Mybatisfirst.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/target/test-classes/SingletonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mybatisfirst/target/test-classes/SpringSingleon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/classes/META-INF/PlayTime001.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/classes/applicationContext-mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/classes/cn/school/controller/login/Test001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/classes/cn/school/tools/BigDecimalUtil$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/classes/cn/school/tools/BigDecimalUtil$BigDecimalOprations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/classes/cn/school/tools/BigDecimalUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/classes/cn/school/tools/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/classes/cn/school/tools/PageSupport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/classes/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/classes/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/aspectjweaver-1.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/c3p0-0.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/commons-fileupload-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/commons-logging-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/fastjson-1.2.59.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/lombok-1.18.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/mchange-commons-java-0.2.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/mybatis-3.4.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/mybatis-spring-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/mysql-connector-java-5.1.40.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/servlet-api-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/spring-aop-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/spring-aspects-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/spring-beans-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/spring-context-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/spring-context-support-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/spring-core-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/spring-expression-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/spring-jcl-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/spring-jdbc-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/spring-orm-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/spring-test-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/spring-tx-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/spring-web-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/spring-webmvc-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/img/friends/fr-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/img/friends/fr-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/img/friends/fr-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/img/friends/fr-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/img/friends/fr-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/img/friends/fr-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/img/friends/fr-07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/img/friends/fr-08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/img/friends/fr-09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/img/friends/fr-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/img/friends/fr-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/img/portfolio/login-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/img/portfolio/port01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/img/portfolio/port02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/img/portfolio/port03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/img/portfolio/port04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/img/portfolio/port05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/img/portfolio/port06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/css/DT_bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/css/demo_page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/css/demo_table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/css/demo_table_jui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/css/jquery.dataTables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/css/jquery.dataTables_themeroller.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/images/Sorting icons.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/images/back_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/images/back_enabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/images/back_enabled_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/images/details_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/images/details_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/images/forward_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/images/forward_enabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/images/forward_enabled_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/images/sort_asc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/images/sort_asc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/images/sort_both.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/images/sort_desc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/images/sort_desc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/js/DT_bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/js/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/js/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/advanced-datatable/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap-datepicker/css/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap-datepicker/js/bootstrap-datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap-daterangepicker/date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap-daterangepicker/daterangepicker-bs3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap-daterangepicker/daterangepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap-daterangepicker/daterangepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap-daterangepicker/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap-datetimepicker/css/datetimepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap-datetimepicker/js/bootstrap-datetimepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap-fileupload/bootstrap-fileupload.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap-fileupload/bootstrap-fileupload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap-inputmask/bootstrap-inputmask.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap-timepicker/compiled/timepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap-timepicker/js/bootstrap-timepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap-wysihtml5/bootstrap-wysihtml5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap-wysihtml5/bootstrap-wysihtml5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap-wysihtml5/wysihtml5-0.3.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/chart-master/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/ckeditor/ckeditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/dropzone/css/dropzone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/dropzone/dropzone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/dropzone/images/spritemap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/dropzone/images/spritemap@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/fancybox/jquery.fancybox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/fancybox/jquery.fancybox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/file-uploader/css/jquery.fileupload-noscript.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/file-uploader/css/jquery.fileupload-ui-noscript.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/file-uploader/css/jquery.fileupload-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/file-uploader/css/jquery.fileupload.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/file-uploader/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/file-uploader/img/progressbar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/file-uploader/js/cors/jquery.xdr-transport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/file-uploader/js/jquery.fileupload-audio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/file-uploader/js/jquery.fileupload-image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/file-uploader/js/jquery.fileupload-process.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/file-uploader/js/jquery.fileupload-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/file-uploader/js/jquery.fileupload-validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/file-uploader/js/jquery.fileupload-video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/file-uploader/js/jquery.fileupload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/file-uploader/js/jquery.iframe-transport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/file-uploader/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/file-uploader/js/vendor/jquery.ui.widget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/flot/jquery.flot.crosshair.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/flot/jquery.flot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/flot/jquery.flot.pie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/flot/jquery.flot.resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/flot/jquery.flot.stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/fullcalendar/bootstrap-fullcalendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/fullcalendar/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/google-maps/data/points.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/google-maps/maplace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/gritter/css/jquery.gritter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/gritter/css/jquery.gritter0.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/gritter/images/gritter-light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/gritter/images/gritter-long.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/gritter/images/gritter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/gritter/images/ie-spacer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/gritter/js/jquery.gritter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/jquery-easy-pie-chart/jquery.easy-pie-chart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/jquery-easy-pie-chart/jquery.easy-pie-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/morris/morris.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/php-mail-form/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/raphael/raphael.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/xchart/d3.v3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/xchart/xcharts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayTime001/target/PlayTime001/lib/xchart/xcharts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/ShoopingManagerPlay01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/dao/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/dao/bill/BillDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/dao/bill/BillDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/dao/provider/ProviderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/dao/provider/ProviderDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/dao/role/RoleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/dao/role/RoleDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/dao/user/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/dao/user/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/filter/CharacterEncoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/filter/SysFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/mapper/BillMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/mapper/BillMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/pojo/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/pojo/Provider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/pojo/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/service/bill/BillService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/service/bill/BillServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/service/provider/ProviderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/service/provider/ProviderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/service/role/RoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/service/role/RoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/service/user/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/service/user/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/servlet/bill/BillControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/servlet/bill/BillServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/servlet/provider/ProviderServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/servlet/provider/providerConttrol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/servlet/user/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/servlet/user/LogoutServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/servlet/user/UserControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/servlet/user/UserPwdUpdateControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/servlet/user/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/tools/BigDecimalUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/tools/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/tools/PageSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/java/cn/smbms/tools/StringToDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/billadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/billlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/billmodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/billview.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/common/foot.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/common/head.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/frame.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/provideradd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/providerlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/providermodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/providerview.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/pwdmodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/rollpage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/useradd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/userlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/usermodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/jsp/userview.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/calendar/My97DatePicker.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/calendar/WdatePicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/calendar/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/calendar/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/calendar/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/calendar/lang/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/calendar/lang/zh-tw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/calendar/skin/WdatePicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/calendar/skin/datePicker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/calendar/skin/default/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/calendar/skin/default/img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/calendar/skin/whyGreen/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/calendar/skin/whyGreen/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/calendar/skin/whyGreen/img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/css/public.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/buy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/clock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/formBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/gys.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/leftBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/loginBg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/login_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/login_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/mm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/read.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/schu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/tc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/tianjia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/xiugai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/yh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/images/zd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/js/billadd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/js/billlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/js/billmodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/js/billview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/js/jquery-1.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/js/provideradd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/js/providerlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/js/providermodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/js/providerview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/js/pwdmodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/js/rollpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/js/time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/js/useradd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/js/userlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/js/usermodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/js/userview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/src/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/dao/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/dao/bill/BillDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/dao/bill/BillDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/dao/provider/ProviderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/dao/provider/ProviderDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/dao/role/RoleDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/dao/role/RoleDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/dao/user/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/dao/user/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/filter/CharacterEncoding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/filter/SysFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/mapper/BillMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/mapper/BillMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/pojo/Bill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/pojo/Provider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/pojo/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/service/bill/BillService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/service/bill/BillServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/service/provider/ProviderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/service/provider/ProviderServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/service/role/RoleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/service/role/RoleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/service/user/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/service/user/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/servlet/bill/BillControl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/servlet/bill/BillServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/servlet/provider/ProviderServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/servlet/provider/providerConttrol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/servlet/user/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/servlet/user/LogoutServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/servlet/user/UserControl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/servlet/user/UserPwdUpdateControl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/servlet/user/UserServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/tools/BigDecimalUtil$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/tools/BigDecimalUtil$BigDecimalOprations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/tools/BigDecimalUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/tools/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/tools/PageSupport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/cn/smbms/tools/StringToDate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/classes/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/billadd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/billlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/billmodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/billview.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/common/foot.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/common/head.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/frame.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/provideradd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/providerlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/providermodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/providerview.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/pwdmodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/rollpage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/useradd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/userlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/usermodify.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/jsp/userview.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/c3p0-0.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/fastjson-1.2.59.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/lombok-1.18.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/mchange-commons-java-0.2.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.4.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.40.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/servlet-api-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/spring-orm-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/spring-test-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/calendar/My97DatePicker.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/calendar/WdatePicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/calendar/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/calendar/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/calendar/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/calendar/lang/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/calendar/lang/zh-tw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/calendar/skin/WdatePicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/calendar/skin/datePicker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/calendar/skin/default/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/calendar/skin/default/img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/calendar/skin/whyGreen/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/calendar/skin/whyGreen/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/calendar/skin/whyGreen/img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/css/public.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/buy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/clock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/formBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/gys.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/leftBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/loginBg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/login_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/login_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/mm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/read.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/schu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/tc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/tianjia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/xiugai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/yh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/images/zd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/js/billadd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/js/billlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/js/billmodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/js/billview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/js/jquery-1.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/js/provideradd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/js/providerlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/js/providermodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/js/providerview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/js/pwdmodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/js/rollpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/js/time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/js/useradd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/js/userlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/js/usermodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/js/userview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/ShoopingManagerPlay01-1.0-SNAPSHOT/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/classes/cn/smbms/dao/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/classes/cn/smbms/dao/bill/BillDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/classes/cn/smbms/dao/bill/BillDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/classes/cn/smbms/dao/provider/ProviderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/classes/cn/smbms/dao/provider/ProviderDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/classes/cn/smbms/dao/role/RoleDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/classes/cn/smbms/dao/role/RoleDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/classes/cn/smbms/dao/user/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/classes/cn/smbms/dao/user/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/classes/cn/smbms/filter/CharacterEncoding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/classes/cn/smbms/filter/SysFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/classes/cn/smbms/mapper/BillMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/classes/cn/smbms/mapper/BillMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/classes/cn/smbms/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/classes/cn/smbms/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ShoopingManagerPlay01/target/classes/cn/smbms/pojo/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2001/src/java/cn/struts/action/FileUpAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2001/target/classes/cn/struts/action/HelloAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot020/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootplay001/target/classes/cn/controller/NewCon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootplay002/target/classes/cn/HellowAcation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Airquality/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Airquality/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Git001" beforeDir="false" afterPath="$PROJECT_DIR$/../Git001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Git002/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Git002/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Git002/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Git002/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Git002/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Git002/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Git002/src/resources/applicationContext-mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Git002/src/resources/applicationContext-mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Git002/src/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Git002/src/resources/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Git002/src/resources/springmvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Git002/src/resources/springmvc-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot020/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot020/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot020/src/main/java/com/appliaction/config/JdbcProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot020/src/main/java/com/appliaction/config/JdbcProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot020/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot020/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot020/src/test/java/com/appliaction/Springboot020ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot020/src/test/java/com/appliaction/Springboot020ApplicationTests.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1337">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/AddEdoc.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="64" column="33" lean-forward="true" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
+              <folding>
+                <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#1;n#tr#2;n#table#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/ModifyEdoc.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="101" column="38" lean-forward="true" selection-start-line="101" selection-start-column="38" selection-end-line="101" selection-end-column="38" />
+              <folding>
+                <element signature="n#script#2;n#head#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#5;n#table#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/common.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="62" column="32" lean-forward="true" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/ShowEdoc.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="70" column="100" selection-start-line="70" selection-start-column="100" selection-end-line="70" selection-end-column="100" />
+              <folding>
+                <element signature="n#c:forEach#0;n#jsp:root#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/resource/springmvc-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/resource/applicationContext-mybatis.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/ShowEdoc.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/AddEdoc.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/ModifyEdoc.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/common.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Login.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Y2Studying/jar包/apache-maven-3.6.0" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1395" />
+    <option name="height" value="953" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EdocManagemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EdocManagemen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EdocManagemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EdocManagemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EdocManagemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EdocManagemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EdocManagemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EdocManagemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EdocManagemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EdocManagemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EdocManagemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EdocManagemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaMyWork\EdocManagemen\src\main\webapp\WEB-INF" />
+      <recent name="E:\ideaMyWork\EdocManagemen\src\main\webapp" />
+      <recent name="E:\ideaMyWork\EdocManagemen\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed001" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.16" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="EdocManagemen:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_EdocManagemen" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="25754" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="EdocManagemen:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9977d67f-8659-403b-8cbe-47562a3c3e72" name="Default Changelist" comment="" />
+      <created>1573700853116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573700853116</updated>
+      <workItem from="1573700856611" duration="4097000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4097000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="533" y="2" width="1116" height="762" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27504727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Application Servers" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48412699" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.27504727" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Application Servers" order="0" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="5" />
+      <window_info anchor="bottom" id="Java Enterprise" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info active="true" anchor="bottom" id="Run" order="11" visible="true" weight="0.6" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/cn/air/dao/HotelRoomMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resource/springmvc-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-586">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resource/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resource/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resource/database.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resource/applicationContext-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/ShowEdoc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="70" column="100" selection-start-line="70" selection-start-column="100" selection-end-line="70" selection-end-column="100" />
+          <folding>
+            <element signature="n#c:forEach#0;n#jsp:root#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/AddEdoc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="64" column="33" lean-forward="true" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#2;n#table#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1337">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="62" column="32" lean-forward="true" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/ModifyEdoc.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="101" column="38" lean-forward="true" selection-start-line="101" selection-start-column="38" selection-end-line="101" selection-end-column="38" />
+          <folding>
+            <element signature="n#script#2;n#head#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#5;n#table#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
